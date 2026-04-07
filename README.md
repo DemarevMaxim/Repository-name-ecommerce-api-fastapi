@@ -26,6 +26,10 @@ REST API для интернет-магазина, реализованный н
 - Docker Compose
 - Pydantic
 
+## 📸 API Preview
+
+![Swagger UI](swagger-ecommerce.png)
+
 ---
 
 ## ▶️ Как запустить проект
