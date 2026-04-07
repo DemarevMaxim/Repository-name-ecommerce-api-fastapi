@@ -33,5 +33,5 @@ REST API для интернет-магазина, реализованный н
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/DemarevMaxim/Repository-name-ecommerce-api-fastapi.git
-cd Repository-name-ecommerce-api-fastapi
+git clone https://github.com/DemarevMaxim/fastapi-ecommerce-api.git
+cd fastapi-ecommerce-api
